@@ -12,8 +12,8 @@
 
 
 ## Link of the course final setup:
-    Prototype website link after configured, made available by the course author. The code available in this repository has 
-    some modifications made by me.
+    Prototype website link after configured, made available by the course author. The code available
+    in this repository has some modifications made by me.
     [   https://react-projects-14-usereducer-cart.netlify.app/   ]
 
 ## Functionalities:
@@ -41,8 +41,7 @@
 
 ## Changes regarding the course design:
 
-    Two new css variables were created, changing the colors of texts,backgrounds, buttons and icons to my enjoy;
+    Two new css variables were created, changing the colors of texts,backgrounds, buttons and icons 
+    to my enjoy;
 
-   
-
-    I Added my logo.
+   I Added my logo.
