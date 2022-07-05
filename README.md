@@ -14,7 +14,9 @@
 ## Link of the course final setup:
     Prototype website link after configured, made available by the course author. The code available
     in this repository has some modifications made by me.
-    [   https://react-projects-14-usereducer-cart.netlify.app/   ]
+   
+   
+   [   https://react-projects-14-usereducer-cart.netlify.app/   ]
 
 ## Functionalities:
     Interactive cart page, who shows dynamically the amount of each item, you can change, 
